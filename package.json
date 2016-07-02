@@ -1,0 +1,29 @@
+{
+  "name": "quoteoftheday",
+  "version": "1.0.0",
+  "description": "This is first node project with heroku and mongodb.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarsuryawanshi/qouteoftheday.git"
+  },
+  "keywords": [
+    "magic",
+    "quotes"
+  ],
+  "author": "Sagar Suryawanshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarsuryawanshi/qouteoftheday/issues"
+  },
+  "homepage": "https://github.com/sagarsuryawanshi/qouteoftheday#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "multer": "^1.1.0"
+  }
+}
