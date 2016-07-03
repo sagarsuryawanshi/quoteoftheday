@@ -4,7 +4,7 @@
   "description": "This is first node project with heroku and mongodb.",
   "main": "server.js",
   "scripts": {
-    "test": "server.js"
+    "test": "index.js"
   },
   "repository": {
     "type": "git",
