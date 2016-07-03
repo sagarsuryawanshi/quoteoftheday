@@ -2,7 +2,7 @@
   "name": "quoteoftheday",
   "version": "1.0.0",
   "description": "This is first node project with heroku and mongodb.",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
