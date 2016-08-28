@@ -33,10 +33,12 @@ app.get('/ab*cd', function(req, res) {
 })
 
 
-var server = app.listen(8081, function () {
+var server = app.listen(8080, function () {
 
   var host = server.address().address
   var port = server.address().port
+  var host = 'https://quoteofthedaycoin.herokuapp.com/';
+  var port = 4000
 
   console.log("Example app listening at http://%s:%s", host, port)
 
